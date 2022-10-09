@@ -13,7 +13,7 @@
 
 HTML, CSS, JavaScript
 
-<!-- [Live Demo](https://color-changerbyzee.netlify.app) -->
+ [Live Demo](https://zeeshanbinary2decimal.netlify.app/)
 
 
 ![alt text](./Image/output.png)
